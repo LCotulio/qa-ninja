@@ -1,5 +1,5 @@
-import signup from '../../pages/SignupPage'
-import signupFactory from '../../factories/SignupFactory'
+import signup from '../pages/SignupPage'
+import signupFactory from '../factories/SignupFactory'
 
 describe('Signup', function () {
 
